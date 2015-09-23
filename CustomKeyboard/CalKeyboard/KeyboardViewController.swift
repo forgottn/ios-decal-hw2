@@ -46,6 +46,19 @@ class KeyboardViewController: UIInputViewController {
         view.backgroundColor = keyboardView.backgroundColor
         nextKeyboardButton.addTarget(self, action: "advanceToNextInputMode", forControlEvents: .TouchUpInside) // advanceToNextInputMode is already defined in template
     }
-
+    
+    @IBAction func backSpacePressed(button: UIButton) {
+        (textDocumentProxy as UIKeyInput).deleteBackward()
+    }
+    
+    @IBAction func returnPressed(button: UIButton) {
+        (textDocumentProxy as UIKeyInput).insertText("\n")
+    }
+    
+    @IBAction func imagePressed(button: UIButton) {
+        let image = UIImage(named: "\(button.tag).png")
+        let data = NSData(data: UIImagePNGRepresentation(image!)!)
+        UIPasteboard.generalPasteboard().setData(data, forPasteboardType: "public.png")
+    }
 
 }

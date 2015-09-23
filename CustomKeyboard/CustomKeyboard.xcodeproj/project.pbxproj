@@ -15,6 +15,15 @@
 		3AAA63A41BA9263900E3822E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AAA63A21BA9263900E3822E /* LaunchScreen.storyboard */; };
 		3AAA63B31BA9283500E3822E /* KeyboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AAA63B21BA9283500E3822E /* KeyboardViewController.swift */; };
 		3AAA63B71BA9283500E3822E /* CalKeyboard.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 3AAA63B01BA9283500E3822E /* CalKeyboard.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		E9B23CFE1BB2057D00B2EE48 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = E9B23CEA1BB2057D00B2EE48 /* 3.png */; settings = {ASSET_TAGS = (); }; };
+		E9B23D001BB2057D00B2EE48 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = E9B23CEC1BB2057D00B2EE48 /* 5.png */; settings = {ASSET_TAGS = (); }; };
+		E9B23D041BB2057D00B2EE48 /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = E9B23CF01BB2057D00B2EE48 /* 9.png */; settings = {ASSET_TAGS = (); }; };
+		E9B23D061BB2057D00B2EE48 /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = E9B23CF21BB2057D00B2EE48 /* 11.png */; settings = {ASSET_TAGS = (); }; };
+		E9B23D071BB2057D00B2EE48 /* 12.png in Resources */ = {isa = PBXBuildFile; fileRef = E9B23CF31BB2057D00B2EE48 /* 12.png */; settings = {ASSET_TAGS = (); }; };
+		E9B23D0A1BB2057D00B2EE48 /* 15.png in Resources */ = {isa = PBXBuildFile; fileRef = E9B23CF61BB2057D00B2EE48 /* 15.png */; settings = {ASSET_TAGS = (); }; };
+		E9B23D0C1BB2057D00B2EE48 /* 17.png in Resources */ = {isa = PBXBuildFile; fileRef = E9B23CF81BB2057D00B2EE48 /* 17.png */; settings = {ASSET_TAGS = (); }; };
+		E9B23D0D1BB2057D00B2EE48 /* 18.png in Resources */ = {isa = PBXBuildFile; fileRef = E9B23CF91BB2057D00B2EE48 /* 18.png */; settings = {ASSET_TAGS = (); }; };
+		E9B23D111BB2252C00B2EE48 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3AAA63B41BA9283500E3822E /* Info.plist */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +62,14 @@
 		3AAA63B01BA9283500E3822E /* CalKeyboard.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = CalKeyboard.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AAA63B21BA9283500E3822E /* KeyboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardViewController.swift; sourceTree = "<group>"; };
 		3AAA63B41BA9283500E3822E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9B23CEA1BB2057D00B2EE48 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 3.png; path = "../../../../../../Downloads/Album FgoqD - Imgur/3.png"; sourceTree = "<group>"; };
+		E9B23CEC1BB2057D00B2EE48 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 5.png; path = "../../../../../../Downloads/Album FgoqD - Imgur/5.png"; sourceTree = "<group>"; };
+		E9B23CF01BB2057D00B2EE48 /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 9.png; path = "../../../../../../Downloads/Album FgoqD - Imgur/9.png"; sourceTree = "<group>"; };
+		E9B23CF21BB2057D00B2EE48 /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 11.png; path = "../../../../../../Downloads/Album FgoqD - Imgur/11.png"; sourceTree = "<group>"; };
+		E9B23CF31BB2057D00B2EE48 /* 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 12.png; path = "../../../../../../Downloads/Album FgoqD - Imgur/12.png"; sourceTree = "<group>"; };
+		E9B23CF61BB2057D00B2EE48 /* 15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 15.png; path = "../../../../../../Downloads/Album FgoqD - Imgur/15.png"; sourceTree = "<group>"; };
+		E9B23CF81BB2057D00B2EE48 /* 17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 17.png; path = "../../../../../../Downloads/Album FgoqD - Imgur/17.png"; sourceTree = "<group>"; };
+		E9B23CF91BB2057D00B2EE48 /* 18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 18.png; path = "../../../../../../Downloads/Album FgoqD - Imgur/18.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +124,14 @@
 		3AAA63B11BA9283500E3822E /* CalKeyboard */ = {
 			isa = PBXGroup;
 			children = (
+				E9B23CEA1BB2057D00B2EE48 /* 3.png */,
+				E9B23CEC1BB2057D00B2EE48 /* 5.png */,
+				E9B23CF01BB2057D00B2EE48 /* 9.png */,
+				E9B23CF21BB2057D00B2EE48 /* 11.png */,
+				E9B23CF31BB2057D00B2EE48 /* 12.png */,
+				E9B23CF61BB2057D00B2EE48 /* 15.png */,
+				E9B23CF81BB2057D00B2EE48 /* 17.png */,
+				E9B23CF91BB2057D00B2EE48 /* 18.png */,
 				3AAA63B21BA9283500E3822E /* KeyboardViewController.swift */,
 				3A5554491BA930D800AF502F /* Keyboard.xib */,
 				3AAA63B41BA9283500E3822E /* Info.plist */,
@@ -204,6 +229,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9B23D071BB2057D00B2EE48 /* 12.png in Resources */,
+				E9B23D041BB2057D00B2EE48 /* 9.png in Resources */,
+				E9B23D0C1BB2057D00B2EE48 /* 17.png in Resources */,
+				E9B23D0D1BB2057D00B2EE48 /* 18.png in Resources */,
+				E9B23D001BB2057D00B2EE48 /* 5.png in Resources */,
+				E9B23D0A1BB2057D00B2EE48 /* 15.png in Resources */,
+				E9B23D061BB2057D00B2EE48 /* 11.png in Resources */,
+				E9B23CFE1BB2057D00B2EE48 /* 3.png in Resources */,
+				E9B23D111BB2252C00B2EE48 /* Info.plist in Resources */,
 				3A55544A1BA930D800AF502F /* Keyboard.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
